@@ -8,6 +8,7 @@ import { Spending } from './Components/Spending/Spending'
 function App() {
   return (
     <Spending/>
+    
   )
 }
 
